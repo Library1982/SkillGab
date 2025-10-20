@@ -1,0 +1,5 @@
+[
+  { "id": "web_dev", "title": "Web Developer", "skills": ["html", "css", "js", "git", "http"] },
+  { "id": "data_scientist", "title": "Data Scientist", "skills": ["python", "statistics", "ml", "sql", "viz"] },
+  { "id": "uiux", "title": "UI/UX Designer", "skills": ["ux", "ui_tools", "design_system", "research"] }
+]

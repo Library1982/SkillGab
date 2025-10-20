@@ -1,0 +1,5 @@
+[
+  { "id": "m1", "name": "Aisha Ahmed", "title": "Senior Web Dev", "email": "aisha@example.com", "coords": [25.2048, 55.2708], "skills": ["html", "css", "js", "git"] },
+  { "id": "m2", "name": "Omar Al Shehab", "title": "Data Scientist", "email": "omar@example.com", "coords": [24.4539, 54.3773], "skills": ["python", "ml", "statistics", "sql"] },
+  { "id": "m3", "name": "Fatima Noor", "title": "Product Designer", "email": "fatima@example.com", "coords": [25.276987, 55.296249], "skills": ["ux", "ui_tools", "research"] }
+]

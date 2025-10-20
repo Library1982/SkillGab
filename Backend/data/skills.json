@@ -1,0 +1,16 @@
+[
+  { "id": "html", "name": "HTML" },
+  { "id": "css", "name": "CSS" },
+  { "id": "js", "name": "JavaScript" },
+  { "id": "git", "name": "Git" },
+  { "id": "http", "name": "HTTP/REST" },
+  { "id": "python", "name": "Python" },
+  { "id": "statistics", "name": "Statistics" },
+  { "id": "ml", "name": "Machine Learning" },
+  { "id": "sql", "name": "SQL" },
+  { "id": "viz", "name": "Visualization" },
+  { "id": "ux", "name": "UX Fundamentals" },
+  { "id": "ui_tools", "name": "UI Tools (Figma/Adobe)" },
+  { "id": "design_system", "name": "Design Systems" },
+  { "id": "research", "name": "User Research" }
+]
