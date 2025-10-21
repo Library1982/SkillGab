@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/SkillGab/static/css/main.28014224.css",
+    "main.css": "/SkillGab/static/css/main.dab032b7.css",
     "main.js": "/SkillGab/static/js/main.75b83d8c.js",
     "static/js/453.d7446e4a.chunk.js": "/SkillGab/static/js/453.d7446e4a.chunk.js",
     "index.html": "/SkillGab/index.html",
-    "main.28014224.css.map": "/SkillGab/static/css/main.28014224.css.map",
+    "main.dab032b7.css.map": "/SkillGab/static/css/main.dab032b7.css.map",
     "main.75b83d8c.js.map": "/SkillGab/static/js/main.75b83d8c.js.map",
     "453.d7446e4a.chunk.js.map": "/SkillGab/static/js/453.d7446e4a.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.28014224.css",
+    "static/css/main.dab032b7.css",
     "static/js/main.75b83d8c.js"
   ]
 }
