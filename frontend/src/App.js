@@ -12,7 +12,7 @@ function App() {
       {/* Navbar */}
       <nav className="bg-gradient-to-r from-blue-900 via-blue-700 to-blue-500 text-white p-4 shadow-lg sticky top-0 z-50">
         <div className="max-w-6xl mx-auto flex justify-between items-center">
-          <h1 className="text-xl font-bold">SkillGab</h1>
+          <h1 className="text-xl font-bold">SkillSync</h1>
           <div className="flex space-x-6">
             <Link className="hover:text-yellow-300 font-medium" to="/">Home</Link>
             <Link className="hover:text-yellow-300 font-medium" to="/career">Career Path</Link>
