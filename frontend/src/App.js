@@ -33,7 +33,7 @@ function App() {
       {/* Footer */}
       <footer className="bg-blue-900 text-white py-6 mt-10">
         <div className="max-w-6xl mx-auto text-center">
-          <p>© 2025 SkillGab. All rights reserved.</p>
+          <p>© 2025 SkillSync. All rights reserved.</p>
         </div>
       </footer>
     </Router>
